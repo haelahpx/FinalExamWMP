@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "917754400282",
+    "firebase_url": "https://week10wmp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "week10wmp",
+    "storage_bucket": "week10wmp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917754400282:android:fa0ca046a4eadb5fe80ba3",
+        "android_client_info": {
+          "package_name": "com.example.finalexamtaskwmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASU0MfmVLZi_g2e0mdPN1Kdlh0mj5dpmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FinalExamTaskWMP" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Set the primary color (Blue) -->
+        <item name="colorPrimary">@color/blue_primary</item>
+        <!-- Set the primary dark color (Darker blue for status bar) -->
+        <item name="colorPrimaryDark">@color/blue_dark</item>
+        <!-- Set the background color (White) -->
+        <item name="android:windowBackground">@color/white</item>
+        <!-- Set text color to blue for contrast -->
+        <item name="android:textColorPrimary">@color/blue_primary</item>
+        <!-- Set text color for secondary text -->
+        <item name="android:textColorSecondary">@android:color/black</item>
+        <!-- Button color style -->
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Colored</item>
+    </style>
+
+    <style name="Theme.FinalExamTaskWMP" parent="Base.Theme.FinalExamTaskWMP" />
+</resources>
